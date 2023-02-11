@@ -21,6 +21,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Robot',sans-serif;
+    padding: 20px;
 }   
 h1 , h2,p{
     text-align: center;
@@ -44,6 +45,7 @@ h1 , h2,p{
 .tea-items p{
     display: inline-block;
     font-weight: 400;
+    margin: 5px 0px;
 }
 .tea-flavor, .collection-flavor{
     margin-left: 5px;
