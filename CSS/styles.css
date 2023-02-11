@@ -7,10 +7,13 @@ h1{
 h2{
     font-size: 35px;
 }
-hr{
+.top-line, .bottom-line{
     height: 2px;
-    background-color: rgb(42, 142, 189);
+    background-color: rgb(121, 61, 66);
     border-color: rgb(4, 6, 7);
+    box-shadow: -2px 9px 5px 0px rgb(36, 35, 35);
+    -webkit-box-shadow: -2px 9px 5px 0px rgb(36, 35, 35);
+    -moz-box-shadow: -2px 9px 5px 0px rgb(37, 37, 37);
 }
 body{
     /*background-color: rgb(13, 92, 156);*/
@@ -42,13 +45,13 @@ h1 , h2,p{
     display: inline-block;
     font-weight: 400;
 }
-.tea-flavor, collection-flavor{
+.tea-flavor, .collection-flavor{
     margin-left: 5px;
     width: 55%;
     /*background-color: aquamarine; */
     text-align: left;
 }
-.tea-price, collection-price{
+.tea-price, .collection-price{
     width: 40%;
    /* background-color: aqua; */
     text-align: right;
