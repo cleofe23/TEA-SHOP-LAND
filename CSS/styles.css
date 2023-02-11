@@ -58,3 +58,18 @@ h1 , h2,p{
    /* background-color: aqua; */
     text-align: right;
 }
+footer{
+    font-size: 12px;
+}
+a{
+    color: rgb(0, 0, 0);
+}
+a:visited{
+    color: aqua;
+}
+a:hover{
+    color: rgb(51, 214, 37);
+}
+a:active{
+    color: yellow;
+}
