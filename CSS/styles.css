@@ -1,0 +1,13 @@
+h1, h2, p{
+    text-align: center;
+}
+body{
+    background-color: rgb(13, 92, 156);
+}
+.tea-menu{
+    width: 80%;
+    background-color: rgb(16, 43, 119);
+   /* background-color: aqua;*/
+    margin-left: auto;
+    margin-right: auto;
+}
