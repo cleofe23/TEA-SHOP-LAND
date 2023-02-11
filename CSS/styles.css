@@ -1,6 +1,16 @@
 h1, h2, p{
     text-align: center;
 }
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 35px;
+}
+hr{
+    height: 2px;
+    background-color: aquamarine;
+}
 body{
     /*background-color: rgb(13, 92, 156);*/
     background-image: url(https://images.pexels.com/photos/12604928/pexels-photo-12604928.jpeg);
@@ -24,17 +34,21 @@ h1 , h2,p{
     padding-bottom: 20px; */
     padding: 20px;
 }
+.established{
+    font-style: italic;
+}
 .tea-items p{
     display: inline-block;
+    font-weight: 400;
 }
 .tea-flavor, collection-flavor{
     margin-left: 5px;
     width: 55%;
-    background-color: aquamarine;
+    /*background-color: aquamarine; */
     text-align: left;
 }
 .tea-price, collection-price{
     width: 40%;
-    background-color: aqua;
+   /* background-color: aqua; */
     text-align: right;
 }
