@@ -9,7 +9,8 @@ h2{
 }
 hr{
     height: 2px;
-    background-color: aquamarine;
+    background-color: rgb(42, 142, 189);
+    border-color: rgb(4, 6, 7);
 }
 body{
     /*background-color: rgb(13, 92, 156);*/
